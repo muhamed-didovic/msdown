@@ -21,7 +21,6 @@ Usage
 
 Options
     --all, -a           Get all courses from particular school or provider.
-    --login, -l         Your login url with login form.
     --email, -e         Your email.
     --password, -p      Your password.
     --directory, -d     Directory to save.
