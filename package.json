@@ -1,6 +1,6 @@
 {
   "name": "msdown",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Downloader and scraper for moralis.io for members",
   "main": "index.js",
   "directories": {
@@ -16,9 +16,10 @@
     "test": "jest"
   },
   "keywords": [
-    "moralis-scrap",
+    "moralis-scrape",
     "moralis-scraper",
     "moralis-downloader",
+    "moralis-download",
     "scraper",
     "moralis"
   ],
@@ -54,8 +55,8 @@
     "p-limit": "^3.1.0",
     "pdfkit": "^0.13.0",
     "prompts": "^2.4.2",
-    "puppeteer": "^15.4.0",
-    "puppeteer-core": "^15.4.0",
+    "puppeteer": "^16.1.0",
+    "puppeteer-core": "^16.1.0",
     "puppeteer-extra": "^3.3.4",
     "puppeteer-extra-plugin-stealth": "^2.11.0",
     "remote-file-size": "^3.0.5",
